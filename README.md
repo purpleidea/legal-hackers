@@ -35,6 +35,21 @@ should submit the patch on their own behalf.
 
 [The full list of individuals is available here.](individuals.md)
 
+## How to:
+
+Issue a pull request:
+
+- edit the `/individuals.md` file (adding your own entry, in alphabetical order)
+- add a file in `/individuals/` (use [individuals/template.md](individuals/template.md))
+- your commit comment should follow the following standard: `individual: Add Newname`
+(prefix lowercase, colon, the rest capitalized)
+- include a self-evaluation checklist in the extended comment, using the template in
+[.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)
+- never use trailing spaces (indentation using tabs only)
+- wait for the result of the automated tests; should your submission fail, look at
+the bottom of the log to see what's wrong
+- wait for your submission to be approved, fix the warnings you have received
+
 ## Questions:
 
 Please ask on [IRC](https://webchat.freenode.net/?channels=#legal-hackers)!
