@@ -46,6 +46,7 @@ failures=''
 run-testsuite ./test/test-misc.sh
 run-testsuite ./test/test-bashfmt.sh
 run-testsuite ./test/test-commit-message.sh
+run-testsuite ./test/test-alphabetical.sh
 run-testsuite ./test/test-markdownlint.sh
 
 if [[ -n "$failures" ]]; then
