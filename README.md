@@ -57,6 +57,12 @@ If you have a well phrased question that might benefit others, consider asking
 it by sending a patch to the [FAQ](faq.md) section. I'll merge your
 question, and a patch with the answer!
 
+## Training:
+
+"I don't know what `git` is, or I'd like to improve my `git` skills."
+If you or your company would like some `git` training, feel free to
+[contact James](https://purpleidea.com/contact/) to arrange a private course.
+
 ## Maintainer:
 
 This list is being maintained by [@purpleidea](https://twitter.com/purpleidea).
