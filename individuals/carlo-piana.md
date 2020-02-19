@@ -13,11 +13,15 @@ around Free and Open Source Software, as well as open data and innovation in
 general.
 
 He has been several times mentioned in the Who's Who Legal for Italy in
-technology-related categories, including for the years 2018 and 2019. He is
-member of the Editorial Committee of the [International Free and Open Source
-Software Law Review](https://ifosslr.org) and member of the Board of
+technology-related categories, including for the years 2019 and 2020. He is
+member of the Editorial Committee of the [Journal of Open Law, Technology and
+Society](https://jolts.world) and President of the Board of
 [EuroITcounsel](https://www.euroitcounsel.com), a network of European
-independent lawyers specializing in IT Law.
+independent lawyers specializing in IT Law. Since 2019 he is a member of the
+advisory team on IP and OS matters to the United Nations' [Innovation Technology
+Laboratories][dd535fca].
+
+[dd535fca]: https://until.un.org/content/expert-fora "UNTIL Advisory"
 
 ### Services available:
 
